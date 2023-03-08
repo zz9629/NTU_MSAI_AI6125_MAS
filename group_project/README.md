@@ -26,6 +26,6 @@ In this project, you will use Tileworld as a canonical reference for an agent-ba
 
 In this project, you have to develop an agent for the Tileworld domain. We have uploaded two papers about the Tileworld domain to NTULearn, i.e. “A history of the Tileworld agent testbed” and “Introducing the Tileworld: Experimentally evaluating agent architectures”. You may study them to gain a better understanding about the domain.
 
-![The Tileworld example](tileworld.png)
+![The Tileworld example](https://github.com/zz9629/NTU_MSAI_AI6125_MAS/tree/main/group_project/Materials/tileworld.png)
 
 More project details in **material** file.
