@@ -2,7 +2,6 @@
 AI6125: Multi-Agent System
 Professor: Assoc Prof Zhang Jie
 
-
 - slides
     - all slides of this course
 - assignments
