@@ -1,6 +1,7 @@
 # NTU_MSAI_AI6125_MAS
 AI6125: Multi-Agent System
-- Assoc Prof Zhang Jie
+Professor: Assoc Prof Zhang Jie
+
 
 - slides
     - all slides of this course
